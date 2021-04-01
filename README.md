@@ -1,4 +1,8 @@
-# Happy-gitting-
+# Happy-gitting
+
+Hi there! Happy to git with you!
+
+Here is an example on how to add images
 
 Just try out the git thing and enjoy gitting!
 
